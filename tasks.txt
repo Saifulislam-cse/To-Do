@@ -1,5 +1,5 @@
 Task:
 
-Hello World--------> task 01
+Hello World-------->  task 01
 
-E=mc^2--------------> task 02
+E=mc^2-------------->  task 02
